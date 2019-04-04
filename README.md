@@ -4,11 +4,13 @@
 ```bash
 # with npm
 npm install express ejs xmlhttprequest mocha rewire supertest
-
+``` 
+ 
 ## Run app
 ```bash
 # use command line
 node app.js
+```
 
 ## HTTP Endpoint Test
 ```bash
@@ -16,7 +18,7 @@ node app.js
 npm test
 # or
 mocha
-
+```
 
 #### GET /users
 Example:

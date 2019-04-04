@@ -1,0 +1,22 @@
+{
+  "name": "brain_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Runjie Chu",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "mocha": "^6.0.2",
+    "rewire": "^4.0.1",
+    "supertest": "^4.0.2",
+    "xmlhttprequest": "^1.8.0"
+  }
+}

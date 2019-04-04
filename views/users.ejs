@@ -1,0 +1,5 @@
+<body> [
+<% for(var i = 0; i < users.length; i++) { %>
+        <li>{ "name": "<%= users[i].name %>", "uid": <%= users[i].uid %>, "gid": <%= users[i].gid %>, "comment": "<%= users[i].comment %>", "home": "<%= users[i].home %>", "shell": "<%= users[i].shell %>"}</li>
+<% } %>
+]</body>

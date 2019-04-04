@@ -1,7 +1,9 @@
 # brain_project
 
-# Install
- 
-with npm
+## Install
+```bash
+# with npm
 npm install express ejs xmlhttprequest mocha rewire supertest
+
+
 
